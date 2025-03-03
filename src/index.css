@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+    font-size: 18px;
+    background-color: #F4FBF6;
+}
+
+a {
+    color: yellow;
+}
